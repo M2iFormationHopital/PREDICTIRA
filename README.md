@@ -32,7 +32,7 @@
 
 ##  À propos du projet
 
-FASTAPI-IRA-PREDICTION-V2 est une API FastAPI conçue pour analyser et prédire les infections respiratoires aiguës en utilisant le modèle LightGBM. 
+FASTAPI-IRA-PREDICTION est une API conçue pour analyser et prédire les infections respiratoires aiguës en utilisant le modèle LightGBM. 
 
 ###  Technologies utilisées
 
@@ -50,7 +50,7 @@ Pour obtenir une copie locale et exécuter l'application, suivez ces étapes :
 
 1. Clonez le dépôt
 ```bash
-git clone https://github.com/sar2016/API-PredictionIRA.git
+git clone M2iFormationHopital/PREDICTIRA
 cd API-PredictionIRA
 ```
 2. Installez les dépendances
