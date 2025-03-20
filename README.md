@@ -5,10 +5,10 @@
     <img src="static/images/logo3.png" alt="Logo" width="200" height="50">
   </a>
   
-  <h3 align="center">API-IRA-PREDICTION-V2</h3>
+  <h3 align="center">API-IRA-PREDICTION</h3>
 
   <p align="center">
-    Une application FastAPI pour analyser et prédire les Infections Respiratoires Aiguës (IRA) à l'aide d'un modèle de Machine Learning.
+    Une application pour analyser et prédire les Infections Respiratoires Aiguës (IRA) à l'aide d'un modèle de Machine Learning.
     <br />
     <a href="https://github.com/sar2016/API-PredictionIRA"><strong>Explorer la documentation »</strong></a>
     <br />
