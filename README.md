@@ -113,7 +113,7 @@ Les contributions sont les bienvenues !
 
 ##  Contact
 
-- **Nom :** Equipe : SARRA ABBASSI & Yannick REPLLIEZ & Mohammed ABUSARAR & Patrice DUCLOS
+- **Nom :** Equipe : Sarra ABBASSI​ && Mohammed ABUSARAR​ && Patrice DUCLOS​ && Yannick REPILLEZ​
 - **GitHub :** M2IFormationHopital
 - **Email :** m2iformationhopital@gmail
 
