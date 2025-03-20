@@ -1,0 +1,4 @@
+Features du modèle : 
+['SYM1', 'SYM22', 'SYM23', 'SYM29', 'SYM3', 'SYM31', 'SYM34', 'SYM35', 'SYM5', 'SYM6', 'SYM68',
+ 'SYM8', 'average_Co', 'average_IQA_global', 'average_No_2', 'average_O_3', 'average_Pm_2_5', 
+ 'average_So_2', 'avg_pressure', 'avg_temperature_max', 'dept', 'indice', 'week_cos', 'year']
